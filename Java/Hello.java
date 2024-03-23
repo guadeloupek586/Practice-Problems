@@ -1,8 +1,8 @@
 /*
     *   Name: Hello.java
+    * 
+    *   Write a program that prints "Hello, World!" to the console.
     *
-    *   The HelloWorld class implements an application that
-    *   simply prints "Hello World!" to standard output.
 */
 
 public class Hello {

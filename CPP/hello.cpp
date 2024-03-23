@@ -1,7 +1,7 @@
 /*
     *   Name: hello.cpp
     * 
-    *   Write a simple program that prints "Hello, World!" to the console.
+    *   Write a program that prints "Hello, World!" to the console.
     *
 */
 

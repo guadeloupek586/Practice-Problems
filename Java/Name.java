@@ -1,6 +1,7 @@
 /*
     *   Name: Name.java
-    *   Ask the user for their name and print it back to them.
+    *   
+    *   Write a program that asks the user for their name and then prints it to the console.
 */
 
 import java.util.Scanner;
