@@ -1,5 +1,5 @@
 /*
-    *   Hello.java
+    *   Name: Hello.java
     *
     *   The HelloWorld class implements an application that
     *   simply prints "Hello World!" to standard output.

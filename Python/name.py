@@ -1,8 +1,7 @@
 """
-    #   Name: hello.py
-
-    #   Write a program that prints "Hello, World!" to the console.
-
+    #   Name: name.py
+    #   
+    #   Ask the user for their name and print it to the screen
 """
 
 def main():
