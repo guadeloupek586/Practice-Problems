@@ -1,9 +1,9 @@
-"""
-    #   Name: hello.py
+'''
+    *   Name: hello.py
+    *   
+    *   Write a program that prints "Hello, World!" to the console.
 
-    #   Write a program that prints "Hello, World!" to the console.
-
-"""
+'''
 
 def main():
     # Write your code here

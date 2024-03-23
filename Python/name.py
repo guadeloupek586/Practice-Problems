@@ -1,8 +1,8 @@
-"""
-    #   Name: name.py
-    #   
-    #   Ask the user for their name and print it to the screen
-"""
+'''
+    *   Name: name.py
+    *   
+    *   Write a program that asks the user for their name and then prints it to the console.
+'''
 
 def main():
     # Write your code here
