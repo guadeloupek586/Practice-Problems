@@ -3,3 +3,5 @@
 3. Say My Name: [C++](CPP/name.cpp) | [Java](Java/Name.java) | [Python](Python/name.py)
 4. Are You Tall Enough?: [C++](CPP/height.cpp) | [Java](Java/Height.java) | [Python](Python/height.py)
 5. What's Your Age?: [C++](CPP/age.cpp) | [Java](Java/Age.java) | [Python](Python/age.py)
+6. Average of N Numbers: [C++](CPP/average.cpp) | [Java](Java/Average.java) | [Python](Python/average.py)
+7. Temperature Converter: [C++](CPP/temperature.cpp) | [Java](Java/Temperature.java) | [Python](Python/temperature.py)
