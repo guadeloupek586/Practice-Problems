@@ -5,3 +5,4 @@
 5. What's Your Age?: [C++](CPP/age.cpp) | [Java](Java/Age.java) | [Python](Python/age.py)
 6. Average of N Numbers: [C++](CPP/average.cpp) | [Java](Java/Average.java) | [Python](Python/average.py)
 7. Temperature Converter: [C++](CPP/temperature.cpp) | [Java](Java/Temperature.java) | [Python](Python/temperature.py)
+8. Integer to String: [C++](CPP/intToString.cpp) | [Java](Java/IntToString.java) | [Python](Python/intToString.py)
