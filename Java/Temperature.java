@@ -6,13 +6,17 @@
     *   If the second parameter is false, convert the temperature from Celsius to Fahrenheit.
 */
 
-public class Tempurature {
+public class Temperature {
     public static double ConvertTemperature(double temperature, boolean isFahrenheit) {
-        // Celsius = (Fahrenheit - 32) * 5/9
-        // Fahrenheit = (Celsius * 9/5) + 32
-        // Write your code here
+        double newTemp;
+        if(isFahrenheit == true)//fahrenheit given, convert to Celsius
+            newTemp = (temperature - 32) * 5/9;
 
-        return 0.0; // replace 0.0 with the converted temperature
+        else
+           newTemp = (temperature * 9/5) + 32;
+        
+
+        return newTemp; 
     }
 
     public static void main(String[] args) {
