@@ -11,9 +11,17 @@
 
 public class Factorial {
     public static long factorial(int n) {
-        // write your code here
+        long subTotal, total;
+        if(n<=1)
+            return 1;
+        
+        else
+        {
+            subTotal = factorial(n-1);
+            total = subTotal * n ;
+        }
 
-        return 0; // replace 0 with the correct return value
+        return total; // replace 0 with the correct return value
     }
 
     public static void main(String[] args) {
